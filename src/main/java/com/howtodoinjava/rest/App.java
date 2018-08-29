@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo;
+package com.howtodoinjava.rest;
 
 /**
  * Hello world!

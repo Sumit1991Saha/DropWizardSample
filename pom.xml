@@ -52,7 +52,7 @@
                               <transformer
                                       implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                   <manifestEntries>
-                                      <Main-Class>com.howtodoinjava.demo.App</Main-Class>
+                                      <Main-Class>com.howtodoinjava.rest.App</Main-Class>
                                       <Build-Number>1.0</Build-Number>
                                   </manifestEntries>
                               </transformer>
